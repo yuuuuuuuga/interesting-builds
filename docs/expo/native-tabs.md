@@ -180,4 +180,3 @@ Native Bottom Tabsを選ぶ場合は、対象OS、React Native、Expo SDK、ネ�
 - 認証状態やデータ取得エラーに応じた画面が表示される
 
 Expoプロジェクトでは、依存関係の整合性を`npx expo install --check`や`npx expo-doctor`で確認できます。Expo Goで使えるネイティブ機能はSDKとアプリに含まれる依存関係に左右されるため、必要に応じて開発ビルドを使用してください。
-```
